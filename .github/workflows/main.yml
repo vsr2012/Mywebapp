@@ -14,4 +14,4 @@ jobs:
       echo "This is line1"
       echo "This is line2"
       cat Index.html
-      cat course.html
+      cat courses.html
