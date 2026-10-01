@@ -7,7 +7,7 @@ jobs:
   steps: 
   - uses: actions/checkout@v1
     name: Check out code 
-  - name: Check out code
+  - name: Echo Hello word
     run: echo Hello World
   - name: Index.html Content
     run: cat Index.html
